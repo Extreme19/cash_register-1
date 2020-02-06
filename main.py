@@ -91,7 +91,7 @@ def main():
 
 if __name__ == '__main__':
 
-    #SUPREGOBALS
+    #SUPREGOBALS 
 
     ERROR_FILE = open('error_log.text', 'a')
     DATA = []
